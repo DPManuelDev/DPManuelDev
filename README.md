@@ -2,13 +2,13 @@
 
 \<div align="center">
 
-### `Developer in Training | Web Development | JavaScript`
+### `DEVELOPER IN TRAINING | WEB DEVELOPMENT`
 
 **Building ideas. Writing code. Creating solutions.**
 
 *Transformando ideias em código e código em soluções.*
 
-
+\<img src="[https://komarev.com/ghpvc/?username=DPManuelDev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=DPManuelDev\&color=00ff88\&style=for-the-badge\&label=PROFILE+VIEWS)" />
 
 \</div>
 
@@ -26,9 +26,9 @@ I'm focused on learning, building practical applications and developing solution
 
 Olá! Sou Domingos Paulo Manuel, desenvolvedor em formação, apaixonado por tecnologia, programação e inovação digital.
 
-O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações práticas e na criação de soluções digitais que façam a diferença.
+O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações práticas e na criação de soluções digitais.
 
-- 🌍 Based in Angola | Angola
+- 🌍 Angola 🇦🇴
 - 💻 Focus: Web Development
 - 🌱 Always learning and improving
 - 🚀 Turning ideas into digital projects
@@ -37,17 +37,19 @@ O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações p
 
 ## ⚡ TECHNOLOGIES & TOOLS | TECNOLOGIAS E FERRAMENTAS
 
-### Frontend
+**Frontend Development**
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=html,css,js,react](https://skillicons.dev/icons?i=html,css,js,react)" /> \</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,react](https://skillicons.dev/icons?i=html,css,js,react)" />
+\</p>
 
-### Backend & Database
+**Backend & Database**
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=nodejs,express,postgres,prisma](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)" /> \</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=nodejs,express,postgres,prisma](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)" /> \</p>
 
-### Development Tools
+**Development Tools**
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" /> \</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" /> \</p>
 
 ---
 
@@ -55,27 +57,27 @@ O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações p
 
 ### 📄 Dynamic CV Generator
 
-A web application designed to create professional and personalized CVs.
+A web application for creating professional and personalized CVs.
 
-[View Project](https://github.com/DPManuelDev/Dinamic-CV-Generator)
+[Explore project →](https://github.com/DPManuelDev/Dinamic-CV-Generator)
 
 ### 🖨️ Jornes Gráfica
 
 A website project for a graphic design, printing and digital services business.
 
-[View Project](https://github.com/DPManuelDev/JornesGrafica-Site)
+[Explore project →](https://github.com/DPManuelDev/JornesGrafica-Site)
 
 ### 🔐 Basic Login Form
 
-A simple and elegant login interface project.
+A simple and elegant login interface.
 
-[View Project](https://github.com/DPManuelDev/Basic-Login-Form)
+[Explore project →](https://github.com/DPManuelDev/Basic-Login-Form)
 
 ### 🏫 Sentry School ERP
 
 A project focused on school management and administrative solutions.
 
-[View Project](https://github.com/DPManuelDev/sentry--school-ERP)
+[Explore project →](https://github.com/DPManuelDev/sentry--school-ERP)
 
 ---
 
@@ -83,9 +85,11 @@ A project focused on school management and administrative solutions.
 
 \<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=DPManuelDev&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=DPManuelDev\&show_icons=true\&theme=chartreuse-dark\&hide_border=true\&include_all_commits=true)" />
+\<img width="48%" src="[https://github-readme-stats.vercel.app/api?username=DPManuelDev&show_icons=true&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=DPManuelDev\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev\&layout=compact\&theme=chartreuse-dark\&hide_border=true)" />
+\<img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev\&layout=compact\&theme=chartreuse-dark\&hide_border=true)" />
+
+\<br/>
 
 \<img width="70%" src="[https://streak-stats.demolab.com?user=DPManuelDev&theme=chartreuse-dark&hide_border=true](https://streak-stats.demolab.com?user=DPManuelDev\&theme=chartreuse-dark\&hide_border=true)" />
 
@@ -93,14 +97,14 @@ A project focused on school management and administrative solutions.
 
 ---
 
-## 🎯 CURRENT GOALS | OBJECTIVOS ACTUAIS
+## 🎯 MY CURRENT GOALS | OBJECTIVOS ACTUAIS
 
-- [x] Learn HTML5 and CSS3
-- [x] Explore JavaScript
-- [ ] Improve React development skills
-- [ ] Build advanced backend applications
-- [ ] Master database management
-- [ ] Develop full-stack projects
+- [x] HTML5 & CSS3
+- [x] JavaScript fundamentals
+- [ ] Advanced React development
+- [ ] Backend development with Node.js
+- [ ] Database management
+- [ ] Full Stack development
 
 ---
 
@@ -108,9 +112,9 @@ A project focused on school management and administrative solutions.
 
 \<div align="center">
 
-\<a href="[https://github.com/DPManuelDev](https://github.com/DPManuelDev)"> \<img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff88)" /> \</a>
-
-\<!-- Add your professional social links here -->
+\<a href="[https://github.com/DPManuelDev](https://github.com/DPManuelDev)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff88)" />
+\</a>
 
 \</div>
 
@@ -125,3 +129,4 @@ A project focused on school management and administrative solutions.
 *Os grandes desenvolvedores constroem-se através da curiosidade, consistência e prática.*
 
 \</div>
+
