@@ -8,7 +8,7 @@
 
 *Transformando ideias em código e código em soluções.*
 
-<img src="[https://komarev.com/ghpvc/?username=DPManuelDev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=DPManuelDev\&color=00ff88\&style=for-the-badge\&label=PROFILE+VIEWS)" />
+<img src="https://komarev.com/ghpvc/?username=DPManuelDev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS/>
 
 </div>
 
@@ -40,17 +40,19 @@ O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações p
 **Frontend Development**
 
 <p align="left">
-&#x20; <img src="[https://skillicons.dev/icons?i=html,css,js,react](https://skillicons.dev/icons?i=html,css,js,react)" />
+&#x20; <img src="https://skillicons.dev/icons?i=html,css,js,react/>
 </p>
 
 **Backend & Database**
 
-<p align="left">   <img src="[https://skillicons.dev/icons?i=nodejs,express,postgres,prisma](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)" /> 
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma/> 
 </p>
 
 **Development Tools**
 
-<p align="left">   <img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)"/> 
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/> 
 </p>
 
 ---
@@ -87,13 +89,13 @@ A project focused on school management and administrative solutions.
 
 <div align="center">
 
-<img width="48%" src="[https://github-readme-stats.vercel.app/api?username=DPManuelDev&show_icons=true&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=DPManuelDev\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DPManuelDev&show_icons=true&theme=chartreuse-dark&hide_border=true />
 
-<img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev\&layout=compact\&theme=chartreuse-dark\&hide_border=true)" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true />
 
 <br/>
 
-<img width="70%" src="[https://streak-stats.demolab.com?user=DPManuelDev&theme=chartreuse-dark&hide_border=true](https://streak-stats.demolab.com?user=DPManuelDev\&theme=chartreuse-dark\&hide_border=true)" />
+<img width="70%" src="https://streak-stats.demolab.com?user=DPManuelDev&theme=chartreuse-dark&hide_border=true/>
 </div>
 
 ---
@@ -113,8 +115,8 @@ A project focused on school management and administrative solutions.
 
 <div align="center">
 
-<a href="[https://github.com/DPManuelDev](https://github.com/DPManuelDev)">
-&#x20; <img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff88)" />
+<a href="https://github.com/DPManuelDev(https://github.com/DPManuelDev)">
+&#x20; <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88/>
 </a>
 
 </div>
