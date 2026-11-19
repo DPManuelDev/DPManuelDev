@@ -40,13 +40,13 @@ O meu foco está na aprendizagem contínua, no desenvolvimento de aplicações p
 **Frontend Development**
 
 <p align="left">
-&#x20; <img src="https://skillicons.dev/icons?i=html,css,js,react/>
+&#x20; <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 **Backend & Database**
 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma/> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/> 
 </p>
 
 **Development Tools**
@@ -91,7 +91,7 @@ A project focused on school management and administrative solutions.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DPManuelDev&show_icons=true&theme=chartreuse-dark&hide_border=true />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPManuelDev&layout=compact&theme=chartreuse-dark&hide_border=true "/>
 
 <br/>
 
